@@ -1,4 +1,3 @@
-
 a = input("a: ")
 b = input("b: ")
 c = a
